@@ -1,0 +1,5 @@
+[auto]
+server-uuid=ce6cb4f2-cf19-11ed-b824-0242ac120002
+host_cache_size=0
+innodb_buffer_pool_size=128M
+
